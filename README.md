@@ -1,6 +1,9 @@
 ![Banner](./1768989763899.jpg)
 
 ## Hi, I'm Canberk. 👋
+Web Developer | Front-End & NextJS Focused  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/canberk-girgin-9a25253a6)
 
 ### Tech Stack:
 **Front-End:**
