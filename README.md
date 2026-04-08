@@ -1,3 +1,5 @@
+![Banner](./1768989763899.jpg)
+
 ## Hi, I'm Canberk. 👋
 
 ### Tech Stack:
