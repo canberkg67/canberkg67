@@ -23,9 +23,4 @@ Web Developer | Front-End & NextJS Focused
 **Tools:**
 - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### Github Stats:
-![Github Stats](https://github-readme-stats-nine-bay-yp36mtu5hs.vercel.app/api?username=canberkg67&show_icons=true&hide_rank=true&theme=tokyonight)
 
-<!--
-Stats için gerekli pat'ın geçerliliği 1 yıl. Sonra yenisi yaratıp Vercel'de variables'a eklemem gerekiyor.
--->
